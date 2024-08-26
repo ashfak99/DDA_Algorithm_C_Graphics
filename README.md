@@ -7,4 +7,4 @@ We sample the line at unit intervals in one co-ordinates and determine correspon
 Consider first a line with positive m,<br><br>
 If m<=1<br><br>
 dx=1<br><br>
-y&#x208k+1;=y&#x208k;+m   ......(3)<br>
+y&#xk+1082;=y&#xk082;+m   ......(3)<br>
