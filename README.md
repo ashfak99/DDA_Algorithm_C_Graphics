@@ -7,5 +7,5 @@ We sample the line at unit intervals in one co-ordinates and determine correspon
 Consider first a line with positive m,<br><br>
 If m<=1<br><br>
 dx=1<br><br>
-y&#x2082;_(k+1)=y&#x2082;+m   ......(3)<br><br>
-y<sub>k+1</sub>
+y<sub>k+1</sub>=y<sub>k</sub>+m    ....(3)<br><br>
+'\triangle'
