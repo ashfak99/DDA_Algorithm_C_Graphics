@@ -8,4 +8,4 @@ Consider first a line with positive m,<br><br>
 If m<=1<br><br>
 dx=1<br><br>
 y&#x2082;_(k+1)=y&#x2082;+m   ......(3)<br><br>
-y&#x2082;_(k+1)
+y<sub>k+1</sub>
